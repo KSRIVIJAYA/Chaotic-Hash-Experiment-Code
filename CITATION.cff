@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the associated manuscript and identify the SMI-80-2026 synthetic dataset."
+title: "Chaotic Hash Integrity Experiments"
+version: 1.0.0
+date-released: 2026-11-24
+type: software
